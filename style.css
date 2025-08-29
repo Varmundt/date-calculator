@@ -1,0 +1,41 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    background-color: aqua;
+    text-align: center;
+    font-variant: small-caps;
+    width: 400px;
+    margin: auto;
+}
+
+.texto{
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+main{
+    text-align: center;
+}
+
+.caixa{
+    background-color: aliceblue;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.relogio {
+    width: 292px;
+    margin: auto;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    font-weight: bold;
+}
